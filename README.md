@@ -28,7 +28,7 @@
     - [备战面试](#备战面试)
     - [常见面试题总结](#常见面试题总结)
     - [面经](#面经)
-    - [Android面试专场](docs/android/AndroidNote/Android-Interview/README.md)
+    - [Android面试专场](docs/android/Android-Interview/README.md)
 - [网络协议](#网络)
 - [操作系统](#操作系统)
     - [Linux相关](#linux相关)
@@ -48,7 +48,7 @@
     - [Git](#git)
     - [Docker](#Docker)
 
-- [常见问题](docs/android/README.md)
+- [常见问题](docs/android/interview/README.md)
 
 ## Android
 
