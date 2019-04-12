@@ -33,4 +33,4 @@ if (i > 0) {
 
 ## 基于 Redis 的分布式锁
 
-[Redis](../../basic/database/7-redis.md)
+[Redis](../../basic/database/redis.md)

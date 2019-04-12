@@ -20,10 +20,10 @@
 
 ## 目录
 
-- [前言](docs/android/Android-InterviewREADME.md)
-- [Android视频教程](docs/android/Android-Interview/Android/Android视频教程.md)
-- [BAT大咖助力，全面升级Android面试](docs/android/Android-InterviewAndroid/BAT大咖助力全面升级Android面试.md)
-- [Android高级面试，10大开源框架源码解析](docs/android/Android-InterviewAndroid/Android高级面试10大开源框架源码解析.md)
+- [前言](README.md)
+- [Android视频教程](Android/Android视频教程.md)
+- [BAT大咖助力，全面升级Android面试](Android/BAT大咖助力全面升级Android面试.md)
+- [Android高级面试，10大开源框架源码解析](Android/Android高级面试10大开源框架源码解析.md)
 - [Android](Android/README.md)
   - [Android基础面试核心内容](Android/Android基础面试核心内容.md)
   - [Android面试精华题目总结](Android/Android面试精华题目总结.md)
