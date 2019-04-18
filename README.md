@@ -260,12 +260,12 @@
 
 
 ##### 框架源码分析
-- [EventBus源码分析](docs/android/AndroidNote/sources/eventbus.md)
-- [Bufferknife源码分析](docs/android/AndroidNote/sources/butterknife.md)
-- [Glide 源码分析](docs/android/AndroidNote/sources/glide.md)
-- [OKHttp 源码分析](docs/android/AndroidNote/sources/okhttp.md)
-- [Retrofit 源码分析](docs/android/AndroidNote/sources/retrofit.md)
-- [ViewModel 源码分析](docs/android/AndroidNote/sources/viewmodel.md)
+- [EventBus源码分析](docs/android/sources/eventbus.md)
+- [Bufferknife源码分析](docs/android/sources/butterknife.md)
+- [Glide 源码分析](docs/android/sources/glide.md)
+- [OKHttp 源码分析](docs/android/sources/okhttp.md)
+- [Retrofit 源码分析](docs/android/sources/retrofit.md)
+- [ViewModel 源码分析](docs/android/sources/viewmodel.md)
 - [自定义View详解][1]
 - [Activity界面绘制过程详解][2]
 - [Activity启动过程][3]
