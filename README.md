@@ -422,6 +422,15 @@
 * [Redlock分布式锁](docs/database/Redis/Redlock分布式锁.md)
 * [如何做可靠的分布式锁，Redlock真的可行么](docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
 
+### 数据库系统原理
+- [数据库系统原理](docs/notes/数据库系统原理.md)
+
+### SQL
+- [SQL](docs/notes/SQL.md)
+
+### Leetcode-Database 题解
+- [Leetcode-Database 题解](docs/notes/Leetcode-Database%20题解.md)
+    
 ## 系统设计
 
 ### 设计模式
@@ -454,6 +463,9 @@
 - [8 张图读懂大型网站技术架构](docs/system-design/website-architecture/8%20张图读懂大型网站技术架构.md)
 - [【面试精选】关于大型网站系统架构你不得不懂的10个问题](docs/system-design/website-architecture/【面试精选】关于大型网站系统架构你不得不懂的10个问题.md)
 
+### 攻击技术
+- [攻击技术](docs/notes/攻击技术.md)
+
 ## 面试指南
 
 ### 备战面试
@@ -476,6 +488,9 @@
 
 - [5面阿里,终获offer(2018年秋招)](docs/essential-content-for-interview/BATJrealInterviewExperience/5面阿里,终获offer.md)
 
+### Android面试专场
+- [Android面试专场](docs/android/Android-Interview/README.md)
+
 ## 工具
 
 ### Git
@@ -486,6 +501,12 @@
 
 * [Docker 入门](docs/tools/Docker.md)
 * [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
+
+### 构建工具
+* [构建工具](docs/notes/构建工具.md)
+
+### 正则表达式
+* [正则表达式](docs/notes/正则表达式.md)
 
 ## 说明
 本文并非原创，通过各位博主综合而得，以便供自己方便学习，在此感谢各位前辈，并在下面注明出处
