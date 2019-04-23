@@ -2,6 +2,16 @@
 
 本文并非原创，通过各位博主综合而得，以便供自己方便学习，在此感谢各位前辈，并在下面注明出处
 
+<!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+| Android[:squirrel:](#Android) | Java[:coffee:](#Java)|Kotlin[:unlock:](#Kotlin) | 面试指南[:memo:](#面试指南) |网络协议[:cloud:](#网络协议)| 操作系统 [:computer:](#操作系统)| 系统设计[:bulb:](#系统设计)| 工具[:wrench:](#工具)| 数据库[:floppy_disk:](#数据库)| 数据结构与算法[:pencil2:](#数据结构与算法) | -->
+
+| &nbsp;Android&nbsp; | Java | &nbsp;Kotlin&nbsp; | 面试指南 | &nbsp;&nbsp;网络协议&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;操作系统&nbsp;&nbsp;&nbsp; | 系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 数据库 | &nbsp;&nbsp;&nbsp;数据结构与算法&nbsp;&nbsp;&nbsp; |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+| [:squirrel:](#Android) | [:coffee:](#Java)|[:unlock:](#Kotlin) | [:memo:](#面试指南) |[:cloud:](#网络协议)|  [:computer:](#操作系统)| [:bulb:](#系统设计)| [:wrench:](#工具)| [:floppy_disk:](#数据库)| [:pencil2:](#数据结构与算法) |
+
+<br>
+
 ## 目录
 
 - [Android](#Android)
@@ -42,15 +52,21 @@
 - [数据库](#数据库)
     - [MySQL](#mysql)
     - [Redis](#redis)
+    - [数据库系统原理](docs/notes/数据库系统原理.md)
+    - [SQL](docs/notes/SQL.md)
+    - [Leetcode-Database 题解](docs/notes/Leetcode-Database%20题解.md)
 - [系统设计](#系统设计)
     - [设计模式](#设计模式)
     - [常用框架](#常用框架)
     - [数据通信](#数据通信)
     - [网站架构](#网站架构)
+    - [攻击技术](docs/notes/攻击技术.md)
 
 - [工具](#工具)
     - [Git](#git)
     - [Docker](#Docker)
+    - [构建工具](docs/notes/构建工具.md)
+    - [正则表达式](docs/notes/正则表达式.md)
 
 - [常见问题](docs/android/interview/README.md)
 
@@ -478,6 +494,7 @@
 - [JackChan1999/Android-Interview](https://github.com/JackChan1999/Android-Interview)
 - [linsir6/AndroidNote](https://github.com/linsir6/AndroidNote)
 - [CharonChui/AndroidNote](https://github.com/CharonChui/AndroidNote)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 
 License
