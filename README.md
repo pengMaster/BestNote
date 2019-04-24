@@ -299,7 +299,6 @@
         - [Retrofit详解(上)][16]
         - [Retrofit详解(下)][17]
 ## Kotlin
-
 - [Kotlin学习][48]
     - [Kotlin学习教程(一)][180]
     - [Kotlin学习教程(二)][181]
