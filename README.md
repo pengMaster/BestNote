@@ -46,6 +46,7 @@
 - [网络协议](#网络)
 - [操作系统](#操作系统)
     - [Linux相关](#linux相关)
+    - [计算机操作系统](#计算机操作系统)   
 - [数据结构与算法](#数据结构与算法)
     - [数据结构](#数据结构)
     - [算法](#算法)
@@ -61,13 +62,11 @@
     - [数据通信](#数据通信)
     - [网站架构](#网站架构)
     - [攻击技术](docs/notes/攻击技术.md)
-
 - [工具](#工具)
     - [Git](#git)
     - [Docker](#Docker)
     - [构建工具](docs/notes/构建工具.md)
     - [正则表达式](docs/notes/正则表达式.md)
-
 - [常见问题](docs/android/interview/README.md)
 
 ## Android
@@ -381,6 +380,10 @@
 
 * [后端程序员必备的 Linux 基础知识](docs/operating-system/后端程序员必备的Linux基础知识.md)  
 * [Shell 编程入门](docs/operating-system/Shell.md)  
+
+### 计算机操作系统
+- [计算机操作系统](docs/notes/计算机操作系统%20-%20目录.md)
+
 
 ## 数据结构与算法
 
