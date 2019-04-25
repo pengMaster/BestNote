@@ -1,6 +1,5 @@
 <h1 align="center">Java Android学习/面试指南</h1>
 
-本文并非原创，通过各位博主综合而得，以便供自己方便学习，在此感谢各位前辈，并在下面注明出处
 
 <!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
@@ -510,7 +509,7 @@
 ### 正则表达式
 * [正则表达式](docs/notes/正则表达式.md)
 
-## 说明
+## 致谢
 本文并非原创，通过各位博主综合而得，以便供自己方便学习，在此感谢各位前辈，并在下面注明出处
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 - [UCodeUStory/DataStructure](https://github.com/UCodeUStory/DataStructure)
@@ -519,6 +518,24 @@
 - [CharonChui/AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
+<a href="https://github.com/Snailclimb/JavaGuide" >
+​    <img src="https://avatars0.githubusercontent.com/u/29880145?s=400&v=4" width="50px">
+</a> 
+<a href="https://github.com/UCodeUStory/DataStructure">
+​    <img src="https://avatars3.githubusercontent.com/u/17451281?s=400&v=4" width="50px">
+</a>
+<a href="https://github.com/JackChan1999/Android-Interview">
+​    <img src="https://avatars0.githubusercontent.com/u/16631168?s=400&v=4" width="50px">
+</a>
+<a href="https://github.com/linsir6/AndroidNote">
+​    <img src="https://avatars2.githubusercontent.com/u/16979367?s=400&v=4" width="50px">
+</a>
+<a href="https://github.com/CharonChui/AndroidNote">
+​    <img src="https://avatars0.githubusercontent.com/u/6140231?s=400&v=4" width="50px">
+</a>
+<a href="https://github.com/CyC2018/CS-Notes">
+​    <img src="https://avatars0.githubusercontent.com/u/36260787?s=400&v=4" width="50px">
+</a>
 
 License
 ===
