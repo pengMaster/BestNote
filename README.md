@@ -98,8 +98,9 @@
 
 ### 进阶
 
+* [Android内存泄漏性能优化总结.md](docs/android/sources/内存性能.md)
+* [进程间通信详解](docs/android/sources/IPC.md)
 * [Android 触控事件解析 - Mastering The Android Touch System 笔记](https://www.jianshu.com/p/c65da5e81afd)
-* [Android 多进程使用场景](http://blog.csdn.net/qq_27489007/article/details/54377655)
 * [Android官网建议代码规范](https://source.android.com/source/code-style#java-language-rules)
 * [30多年编码经验总结成10条最佳实践](https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484524&idx=1&sn=5b2759e6d89f01e61d021545ca7556b9&chksm=e82c3d4bdf5bb45dd77227982931ede8229ee6910829253a57bb905e810c89bd3f0a162786e8&mpshare=1&scene=23&srcid=1023FjKcLWtRlcDpwEeeJnCN#rd)
 * [Android中的动画](docs/android/AndroidNote/Android进阶/Android中的动画.md)
@@ -109,13 +110,8 @@
 * [自定义RadioGroup](docs/android/AndroidNote/Android进阶/自定义RadioGroup.md)
 * [Android导入项目一直在Building的解决方案](docs/android/AndroidNote/Android进阶/AndroidStudio导入工程一直在Building的解决方案.md)
 * [基于TOTP的双向认证算法](docs/android/AndroidNote/Android进阶/基于OTP算法的双向认证.md)
-* [Android内存泄漏总结.md](docs/android/AndroidNote/Android进阶/Android内存泄漏总结.md)
-* [Handler引起的内存泄漏的案例与分析](docs/android/AndroidNote/Android进阶/Handler引起的内存泄漏以及分析.md)
-* [Android性能优化.md](docs/android/AndroidNote/Android进阶/Android性能优化.md)
-* [LeakCanary的工作过程以及原理](docs/androidAndroidNote/Android性能优化相关/LeakCanary工作过程以及原理.md)
-* [进程间通信详解](docs/android/sources/IPC.md)
+* [基于TOTP的双向认证算法](docs/android/AndroidNote/Android进阶/基于OTP算法的双向认证.md)
 * [Android中利用异步来优化处理速度](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=401555104&idx=1&sn=501e6158e6eb26b4e86467be01fd290e&scene=21#wechat_redirect)
-* [为什么选择Binder实现Android中跨进程通信](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548116&idx=1&sn=d11a131871623110c74e3676d4fcf785&chksm=f1180e29c66f873f9cac5dc104f97fae319c1831219a9fd9458a4429f16562f6712cc7f65a4c&scene=21#wechat_redirect)
 * [三大图片缓存框架的对比](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547344&idx=2&sn=e3fa99b52055a37202634fe61a62d439&scene=21#wechat_redirect)
 * [SVG图片在Android中的应用](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548366&idx=1&sn=6cbdf8652ec139859d9be01444e1ad3b&chksm=f1180d33c66f8425a286de4fd5f03aa89308add3593529a91356439cb8c2f8542305561034c8&scene=21#wechat_redirect)
 * [携程App的网络性能优化实践](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547359&idx=1&sn=9f069a28f5dbe73fb6c241cfa1049571&scene=21#wechat_redirect)
