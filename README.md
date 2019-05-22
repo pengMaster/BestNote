@@ -98,8 +98,8 @@
 
 ### 进阶
 
-* [Android内存泄漏性能优化总结](docs/android/sources/内存性能.md)
-* [进程间通信详解](docs/android/sources/IPC.md)
+* [Android内存泄漏性能优化总结](docs/android/AndroidNote/内存性能.md)
+* [进程间通信详解](docs/android/AndroidNote/IPC.md)
 * [Android 触控事件解析 - Mastering The Android Touch System 笔记](https://www.jianshu.com/p/c65da5e81afd)
 * [Android官网建议代码规范](https://source.android.com/source/code-style#java-language-rules)
 * [30多年编码经验总结成10条最佳实践](https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484524&idx=1&sn=5b2759e6d89f01e61d021545ca7556b9&chksm=e82c3d4bdf5bb45dd77227982931ede8229ee6910829253a57bb905e810c89bd3f0a162786e8&mpshare=1&scene=23&srcid=1023FjKcLWtRlcDpwEeeJnCN#rd)
