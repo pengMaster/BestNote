@@ -113,7 +113,7 @@
 * [Handler引起的内存泄漏的案例与分析](docs/android/AndroidNote/Android进阶/Handler引起的内存泄漏以及分析.md)
 * [Android性能优化.md](docs/android/AndroidNote/Android进阶/Android性能优化.md)
 * [LeakCanary的工作过程以及原理](docs/androidAndroidNote/Android性能优化相关/LeakCanary工作过程以及原理.md)
-* [AIDL的具体实现流程](http://bbs.51cto.com/thread-1086040-1.html)
+* [进程间通信详解](docs/android/sources/IPC.md)
 * [Android中利用异步来优化处理速度](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=401555104&idx=1&sn=501e6158e6eb26b4e86467be01fd290e&scene=21#wechat_redirect)
 * [为什么选择Binder实现Android中跨进程通信](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548116&idx=1&sn=d11a131871623110c74e3676d4fcf785&chksm=f1180e29c66f873f9cac5dc104f97fae319c1831219a9fd9458a4429f16562f6712cc7f65a4c&scene=21#wechat_redirect)
 * [三大图片缓存框架的对比](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547344&idx=2&sn=e3fa99b52055a37202634fe61a62d439&scene=21#wechat_redirect)
