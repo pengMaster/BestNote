@@ -98,7 +98,7 @@
 
 ### 进阶
 
-* [Android内存泄漏性能优化总结.md](docs/android/sources/内存性能.md)
+* [Android内存泄漏性能优化总结](docs/android/sources/内存性能.md)
 * [进程间通信详解](docs/android/sources/IPC.md)
 * [Android 触控事件解析 - Mastering The Android Touch System 笔记](https://www.jianshu.com/p/c65da5e81afd)
 * [Android官网建议代码规范](https://source.android.com/source/code-style#java-language-rules)
