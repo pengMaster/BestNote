@@ -162,6 +162,9 @@
 * [Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
 * [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 * [NDK-JNI开发入门教程项目](https://github.com/pengMaster/NDKJniDemo)
+* [深入理解Android之Gradle Groovy](https://blog.csdn.net/innost/article/details/48228651)
+* [Groovy 闭包](https://www.jianshu.com/p/6dc2074480b8)
+* [要点提炼| Gradle指南](https://www.jianshu.com/p/1274c1f1b6a4)
 * [Gradle专题][39]
 * [发布library到Maven仓库][40]
 
