@@ -312,12 +312,13 @@
     - [Kotlin学习教程(十)][197]
 
 ## Flutter
-- [Flutter学习]
-    - [flutter脚手架封装][https://github.com/pengMaster/flutter_app]
-    - [flutter中文学习网][https://book.flutterchina.club/chapter2/]
-    - [flutter常用库总结][https://www.cnblogs.com/yangyxd/p/9232308.html]
-    - [flutter开源项目][https://flutterchina.club/opensource.html]
-    - [flutter基础语法][https://www.jianshu.com/p/3d927a7bf020]
+* **Flutter学习：**
+  * [flutter脚手架封装](https://github.com/pengMaster/flutter_app)
+  * [flutter中文学习网](https://book.flutterchina.club/chapter2/)
+  * [flutter常用库总结](https://www.cnblogs.com/yangyxd/p/9232308.html)
+  * [flutter开源项目](https://flutterchina.club/opensource.html)
+  * [flutter基础语法](https://www.jianshu.com/p/3d927a7bf020)
+
 
     
 ## Java
