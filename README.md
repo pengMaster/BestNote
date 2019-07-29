@@ -188,7 +188,7 @@
 * [具有弹性的小球](https://github.com/linsir6/mCustomView/tree/master/MagicCircle)
 * [PathMeasure](docs/android/AndroidNote/Android自定义View/PathMeasure.md)
 
-
+## Android常见设计模式
 * **Android常见设计模式**
   * [观察者模式](https://blog.csdn.net/chengyuqiang/article/details/79222294)
   * [策略模式](https://github.com/pengMaster/strategyMode)
