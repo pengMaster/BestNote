@@ -23,6 +23,7 @@
     - [编译器相关](#编译器相关)
     - [框架源码分析](#框架源码分析)
     - [性能优化](#性能优化)
+    - [Android常见设计模式](#Android常见设计模式) 
     - [音视频开发](#音视频开发)    
     - [开源框架](#开源框架)
     - [应用发布](#应用发布)
@@ -187,6 +188,19 @@
 * [具有弹性的小球](https://github.com/linsir6/mCustomView/tree/master/MagicCircle)
 * [PathMeasure](docs/android/AndroidNote/Android自定义View/PathMeasure.md)
 
+
+* **Android常见设计模式**
+  * [观察者模式](https://blog.csdn.net/chengyuqiang/article/details/79222294)
+  * [策略模式](https://github.com/pengMaster/strategyMode)
+  * [建造者模式](https://www.jianshu.com/p/154948d5adc6)
+  * [适配器模式](https://blog.csdn.net/u012583459/article/details/47079529)
+  * [代理模式](https://blog.csdn.net/u012583459/article/details/47079529)
+  * [工厂模式](https://blog.csdn.net/u012583459/article/details/47079549)
+  * [单例模式](https://blog.csdn.net/u012583459/article/details/47079549)
+  * [命令模式](https://blog.csdn.net/u012583459/article/details/47079549)
+
+
+    
 ### 音视频开发
 - [音视频开发][44]
     - [搭建nginx+rtmp服务器][18]
