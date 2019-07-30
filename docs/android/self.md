@@ -12,3 +12,5 @@
   
 * [Android 学习笔记核心篇](https://juejin.im/post/5c46db4ae51d4503834d8227)
 * [Android 每日一问](https://www.wanandroid.com/article/list/0?cid=440)
+* [2019年最新总结大场面试题](https://github.com/0voice/interview_internal_reference)
+* [大场内推](https://github.com/0voice/enterprise_job_recommend)
