@@ -29,6 +29,7 @@
     - [应用发布](#应用发布)
     - [打包](#打包)  
     - [原生功能讲解](docs/android/AndroidNote/READMENote.md)    
+    - [TODO学习清单](docs/android/self.md) 
 - [Java](#java)
     - [基础](#基础)
     - [容器](#容器)
@@ -100,6 +101,7 @@
 
 ### 进阶
 
+* [Android 学习笔记核心篇](https://juejin.im/post/5c46db4ae51d4503834d8227)
 * [Android内存泄漏性能优化总结](docs/android/AndroidNote/内存性能.md)
 * [进程间通信详解](docs/android/AndroidNote/IPC.md)
 * [Android中的动画](docs/android/AndroidNote/Android进阶/Android中的动画.md)
