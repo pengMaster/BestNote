@@ -98,6 +98,7 @@
 * [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)
 * [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)
 * [Android 一个无限循环滚动的卡片式ViewPager](https://blog.csdn.net/qq_30552993/article/details/76208535)
+* [Android 中获取控件宽和高的方法（详细解析）](https://blog.csdn.net/CodeIsPoisonous/article/details/54316025)
 
 ### 进阶
 
