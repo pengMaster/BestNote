@@ -20,6 +20,7 @@
   * [安卓AOP三剑客:APT,AspectJ,Javassist](https://www.jianshu.com/p/dca3e2c8608a?from=timeline)
   
 * [Android中Looper原理](https://blog.csdn.net/u014803950/article/details/80832581)
+* [Android主线程(ActivityThread)源代码分析](https://blog.csdn.net/xu_song/article/details/81983724)
 
 * **Kotlin**
   * [Kotlin泛型 协变 逆变 星投影](https://www.jianshu.com/p/ecacb7af79eb?from=timeline&isappinstalled=0)
