@@ -7,7 +7,7 @@
 
 | Flutter| &nbsp;Android&nbsp; | Java | &nbsp;Kotlin&nbsp; | &nbsp;面试&nbsp; | 网络 | &nbsp;&nbsp;操作系统&nbsp;&nbsp; | &nbsp;系统设计&nbsp; | &nbsp;工具&nbsp; | &nbsp;数据库&nbsp; | &nbsp;算法&nbsp; |
 | :--------:| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| [:squirrel:](#Flutter)| [:squirrel:](#Android) | [:coffee:](#Java)|[:unlock:](#Kotlin) | [:memo:](#面试指南) |[:cloud:](#网络)|  [:computer:](#操作系统)| [:bulb:](#系统设计)| [:wrench:](#工具)| [:floppy_disk:](#数据库)| [:pencil2:](#数据结构与算法) |
+| [ :iphone:](#Flutter)| [:squirrel:](#Android) | [:coffee:](#Java)|[:unlock:](#Kotlin) | [:memo:](#面试指南) |[:cloud:](#网络)|  [:computer:](#操作系统)| [:bulb:](#系统设计)| [:wrench:](#工具)| [:floppy_disk:](#数据库)| [:pencil2:](#数据结构与算法) |
 
 <br>
 
@@ -336,6 +336,7 @@
   * [flutter开源项目](https://flutterchina.club/opensource.html)
   * [flutter基础语法](https://www.jianshu.com/p/3d927a7bf020)
   * [Flutter常用工具类](https://juejin.im/post/5d0f4c54f265da1bb31c426c?utm_source=gold_browser_extension)
+  * [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
 
 
     
