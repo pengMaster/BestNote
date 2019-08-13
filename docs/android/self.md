@@ -26,3 +26,5 @@
   * [Kotlin泛型 协变 逆变 星投影](https://www.jianshu.com/p/ecacb7af79eb?from=timeline&isappinstalled=0)
   * [协程](https://www.jianshu.com/p/04f28bbc66dc)
   
+* [Android开发需要了解的网络协议](https://www.jianshu.com/p/6402d04eb838)
+  
