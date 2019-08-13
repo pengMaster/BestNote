@@ -327,6 +327,7 @@
     - [Kotlin学习教程(八)][187]
     - [Kotlin学习教程(九)][188]
     - [Kotlin学习教程(十)][197]
+    - [集合之常用操作符汇总](https://www.cnblogs.com/Jetictors/p/9241867.html)
 
 ## Flutter
 * **Flutter学习：**
