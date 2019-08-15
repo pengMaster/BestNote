@@ -26,5 +26,8 @@
   * [Kotlin泛型 协变 逆变 星投影](https://www.jianshu.com/p/ecacb7af79eb?from=timeline&isappinstalled=0)
   * [协程](https://www.jianshu.com/p/04f28bbc66dc)
   
+* **堆栈**
+  * [Java String s = new String("hello")和String s = "hello"的区别](https://blog.csdn.net/kk123k/article/details/80752476)
+  
 * [Android开发需要了解的网络协议](https://www.jianshu.com/p/6402d04eb838)
   
