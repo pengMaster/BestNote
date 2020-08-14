@@ -18,6 +18,7 @@
 * **安卓AOP**
   * [Android 中使用AOP](https://www.jianshu.com/p/83c46664b507)
   * [安卓AOP三剑客:APT,AspectJ,Javassist](https://www.jianshu.com/p/dca3e2c8608a?from=timeline)
+  * [【Android】函数插桩（Gradle + ASM）](https://www.jianshu.com/p/16ed4d233fd1)
   
 * [Android中Looper原理](https://blog.csdn.net/u014803950/article/details/80832581)
 * [Android主线程(ActivityThread)源代码分析](https://blog.csdn.net/xu_song/article/details/81983724)
