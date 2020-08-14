@@ -1,12 +1,12 @@
 <h1 align="center">Java Android学习/面试指南 Q群：830556582</h1>
 
-<!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ | Ⅹ |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Flutter[:iphone:](#Flutter)| Android[:squirrel:](#Android) | Java[:coffee:](#Java)|Kotlin[:unlock:](#Kotlin) | 面试[:memo:](#面试指南) |网络[:cloud:](#网络协议)| 操作系统 [:computer:](#操作系统)| 系统设计[:bulb:](#系统设计)| 工具[:wrench:](#工具)| 数据库[:floppy_disk:](#数据库)| 算法[:pencil2:](#数据结构与算法) | -->
+<!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ | Ⅹ | Ⅹ |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
+| Flutter[:iphone:](#Flutter)| Android[:pencil2:](#Android) | Java[:coffee:](#Java)|Kotlin[:unlock:](#Kotlin) | 面试[:memo:](#面试指南) |网络[:cloud:](#网络协议)| 操作系统 [:computer:](#操作系统)| 系统设计[:bulb:](#系统设计)| 工具[:wrench:](#工具)| 数据库[:floppy_disk:](#数据库)| 算法[:pencil2:](#数据结构与算法) |  TODO学习清单[:page_facing_up:](#TODO学习清单) |-->
 
-| Flutter| Android | Java | Kotlin | &nbsp;面试&nbsp; | 网络 | 系统 | 系统设计 | &nbsp;工具&nbsp; | 数据库 | 算法 |
+| Flutter| Android | Java | Kotlin | &nbsp;面试&nbsp; | 网络 | 系统 | 系统设计 | &nbsp;工具&nbsp; | 数据库 | 算法 |TODO |
 | :--------:| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| [ :iphone:](#Flutter)| [:bulb:](#Android) | [:coffee:](#Java)|[:unlock:](#Kotlin) | [:memo:](#面试指南) |[:cloud:](#网络)|  [:computer:](#操作系统)| [:bulb:](#系统设计)| [:wrench:](#工具)| [:floppy_disk:](#数据库)| [:pencil2:](#数据结构与算法) | 
+| [ :iphone:](#Flutter)| [:pencil2:](#Android) | [:coffee:](#Java)|[:unlock:](#Kotlin) | [:memo:](#面试指南) |[:cloud:](#网络)|  [:computer:](#操作系统)| [:bulb:](#系统设计)| [:wrench:](#工具)| [:floppy_disk:](#数据库)| [:pencil2:](#数据结构与算法) | [:page_facing_up:](#TODO学习清单) |
 
 <br>
 
