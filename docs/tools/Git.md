@@ -255,4 +255,3 @@ git push origin
 - [Git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 - [猴子都能懂得Git入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
-- https://git-scm.com/book/en/v2
